@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Usm_sc_adv</string>
+    <string name="app_disp_name">School of Computing Advisement</string>
+
+    <!-- Strings related to login -->
+
+    <string name="prompt_usm_id">USM ID (W...)</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="guest_sign_in">Guest log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."</string>
+
+    <string name="faq">FREQUENTLY ASKED QUESTIONS</string>
+
+    <string name="que_1">Contacting Your Advisor</string>
+    <string name="que_2">Advisement Week</string>
+    <string name="que_3">Registering for Classes</string>
+    <string name="que_4">Changing Your Major</string>
+    <string name="que_5">Adding a Minor in the School of Computing</string>
+    <string name="que_6">Graduation Preparation</string>
+    <string name="que_7">How do I contact my professor?</string>
+    <string name="que_8">How can I find out when my professor office hours are?</string>
+    <string name="que_9"></string>
+    <string name="que_10"></string>
+
+    <string name="que1_content">Your advisor is listed on your SOAR Student Center page. If you do not have an advisor listed,or you would like to change your advisor, please call the School of Computing office at 601-266-4949 and we will adjust your official advisor assignment in</string>
+    <string name="que2_content"></string>
+    <string name="que3_content"></string>
+    <string name="que4_content"></string>
+    <string name="que5_content"></string>
+    <string name="que6_content"></string>
+    <string name="que7_content"></string>
+    <string name="que8_content"></string>
+    <string name="que9_content"></string>
+    <string name="que10_content"></string>
+
+
+
+</resources>
