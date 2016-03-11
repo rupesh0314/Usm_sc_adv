@@ -17,28 +17,102 @@
         completions."</string>
 
     <string name="faq">FREQUENTLY ASKED QUESTIONS</string>
+<string name="que_1">Undergraduate Advising</string>
+    <string name="que_2">Contacting Your Advisor</string>
+    <string name="que_3">Advisement Week</string>
+    <string name="que_4">Registering for Classes</string>
+    <string name="que_5">Changing Your Major</string>
+    <string name="que_6">Adding a Minor in the School of Computing</string>
+    <string name="que_7">Graduation Preparation</string>
+    <string name="que_8">How do I contact my professor?</string>
+    <string name="que_9">How can I find out when my professor office hours are?</string>
+    <string name="que_10">I\'ve emailed my professor but I haven\'t heard back. What should I do? </string>
 
-    <string name="que_1">Contacting Your Advisor</string>
-    <string name="que_2">Advisement Week</string>
-    <string name="que_3">Registering for Classes</string>
-    <string name="que_4">Changing Your Major</string>
-    <string name="que_5">Adding a Minor in the School of Computing</string>
-    <string name="que_6">Graduation Preparation</string>
-    <string name="que_7">How do I contact my professor?</string>
-    <string name="que_8">How can I find out when my professor office hours are?</string>
-    <string name="que_9"></string>
-    <string name="que_10"></string>
 
-    <string name="que1_content">Your advisor is listed on your SOAR Student Center page. If you do not have an advisor listed,or you would like to change your advisor, please call the School of Computing office at 601-266-4949 and we will adjust your official advisor assignment in</string>
-    <string name="que2_content"></string>
-    <string name="que3_content"></string>
-    <string name="que4_content"></string>
-    <string name="que5_content"></string>
-    <string name="que6_content"></string>
-    <string name="que7_content"></string>
-    <string name="que8_content"></string>
-    <string name="que9_content"></string>
-    <string name="que10_content"></string>
+    <string name="que1_content">All University of Southern Mississippi students are required to meet with an academic advisor in
+
+their department each semester prior to enrolling in classes.  Your advisor will look over your
+
+degree plan, and work with you to ensure you\'re on track for graduating with your degree. 
+
+Advisors will also help you to make sure that any credits you have from another university or
+
+community college are transferred to Southern Miss, and can help you with probation or
+
+suspension paperwork.</string>
+    <string name="que2_content">Your advisor is listed on your SOAR Student Center page. If you do not have an advisor listed,
+
+or you would like to change your advisor, please call the School of Computing office at 601-266-
+
+4949 and we will adjust your official advisor assignment in</string>
+    <string name="que3_content">The week before advising begins, the School of Computing office will post the appointment
+
+schedule book on the front desk for sign-up availability. You must come by in person and sign
+
+up.</string>
+    <string name="que4_content">After you have been advised, your advisor will give you a form with the list of classes you\'ve
+
+discussed.  You\'ll bring this form to the School of Computing office, and we will remove the
+
+advisement hold from your account.  While you can pre-register for your classes in SOAR even
+
+if you haven\'t been advised, your classes will not be official until your advisement hold is lifted
+
+and will be dropped the last day of the semester.</string>
+    <string name="que5_content">If you\'d like to change your major to one of our School of Computing programs, welcome!
+
+Please visit our office in TEC 214 and we will help you get advised and complete the Change of
+
+Major form. The advisor will also sign your form and we will take it for final processing. Within
+
+a week or so, your new major (and a new advisor) should be listed on your SOAR account.</string>
+    <string name="que6_content">To add a minor in The School of Computing, please visit our office in TEC 214 and we will help
+
+you get advised and complete the Change of Major form. Within a week, your minor should be
+
+listed in SOAR.  A minor requires 18 hours in the minor area at the 300 or 400 level, and you are
+
+not required to meet an advisor to minor in one of the areas (but, advisement is suggested).  If
+
+you\'d like advisement on your minor, please contact our office in TEC 214.</string>
+    <string name="que7_content">Your journey is near completion. For all questions regarding graduation please go to: Graduation
+
+Preparation.</string>
+    <string name="que8_content">The best and easiest way to contact any of the School of Computing instructors is by email. Click
+
+here on the university\'s people directory for email addresses and office phone numbers for the
+
+instructors. Please allow up to 48 hours for a response. You can also drop by your professor\'s
+
+office during his/her office hours, which are listed on your syllabus and contact information
+
+sheets are also available in our TEC 214 main office.  If your professor is a graduate instructor or
+
+an adjunct, he/she will not have a phone in the department and is contactable by email or in
+
+person during office hours only. If you are trying to contact your instructor in an online class,
+
+email or Blackboard are your only options. For email addresses of faculty in other
+
+departments, click here for the university\'s police directory </string>
+    <string name="que9_content">Your professor’s office hours should be listed on his or her office door and on your syllabus,
+
+which is your first and best resource for information about the class. Contact information sheets
+
+are also available in our TEC 214 main office.  If you are taking an online class, your professor
+
+will not hold office hours and can be contacted by e-mail or Blackboard only.</string>
+    <string name="que10_content">Please give your instructors 48 hours to respond to your emails. They may be getting emails
+
+from many, many students, and responding as quickly as they can in the order in which they
+
+received them. If it has been 48 hours and you still haven’t heard, please send the e-mail again,
+
+but copy it to the School of Computing department by typing Sherry.Smith@usm.edu in the cc:
+
+line. This will send a copy to the department undergraduate administrative assistant, who will
+
+make sure it gets to the instructor.</string>
 
 
 

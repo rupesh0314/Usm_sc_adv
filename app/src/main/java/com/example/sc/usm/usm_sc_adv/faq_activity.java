@@ -11,7 +11,7 @@ import android.widget.TextView;
 public class faq_activity extends AppCompatActivity {
 
     // inside Activity
-    TextView que_1,que_2,que_3,que_4,que_5,que_6,que_7,que_8;
+    TextView que_1,que_2,que_3,que_4,que_5,que_6,que_7,que_8,que_9,que_10;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,25 +22,31 @@ public class faq_activity extends AppCompatActivity {
         que_1.setVisibility(View.GONE);
         que_2 = (TextView) findViewById(R.id.que_2_content);
 // hide until its title is clicked
-        que_3.setVisibility(View.GONE);
+        que_2.setVisibility(View.GONE);
         que_3 = (TextView) findViewById(R.id.que_3_content);
 // hide until its title is clicked
-        que_4.setVisibility(View.GONE);
+        que_3.setVisibility(View.GONE);
         que_4 = (TextView) findViewById(R.id.que_4_content);
 // hide until its title is clicked
-        que_5.setVisibility(View.GONE);
+        que_4.setVisibility(View.GONE);
         que_5 = (TextView) findViewById(R.id.que_5_content);
 // hide until its title is clicked
-        que_6.setVisibility(View.GONE);
+        que_5.setVisibility(View.GONE);
         que_6 = (TextView) findViewById(R.id.que_6_content);
 // hide until its title is clicked
-        que_7.setVisibility(View.GONE);
+        que_6.setVisibility(View.GONE);
         que_7 = (TextView) findViewById(R.id.que_7_content);
 // hide until its title is clicked
-        que_8.setVisibility(View.GONE);
+        que_7.setVisibility(View.GONE);
         que_8 = (TextView) findViewById(R.id.que_8_content);
 // hide until its title is clicked
-        que_1.setVisibility(View.GONE);
+        que_8.setVisibility(View.GONE);
+        que_9 = (TextView) findViewById(R.id.que_8_content);
+// hide until its title is clicked
+        que_9.setVisibility(View.GONE);
+        que_10 = (TextView) findViewById(R.id.que_8_content);
+// hide until its title is clicked
+        que_10.setVisibility(View.GONE);
 
     }
 
@@ -80,26 +86,19 @@ switch (v.getId()) {
         que_7.setVisibility(que_7.isShown()
                 ? View.GONE
                 : View.VISIBLE); break;
-    /*case R.id.que_8:
-        que_1.setVisibility(que_1.isShown()
+    case R.id.que_8:
+        que_8.setVisibility(que_8.isShown()
                 ? View.GONE
                 : View.VISIBLE); break;
     case R.id.que_9:
-        que_1.setVisibility(que_1.isShown()
+        que_9.setVisibility(que_9.isShown()
                 ? View.GONE
                 : View.VISIBLE); break;
     case R.id.que_10:
-        que_1.setVisibility(que_1.isShown()
+        que_10.setVisibility(que_10.isShown()
                 ? View.GONE
                 : View.VISIBLE); break;
-    case R.id.que_11:
-        que_1.setVisibility(que_1.isShown()
-                ? View.GONE
-                : View.VISIBLE); break;
-    case R.id.que_12:
-        que_1.setVisibility(que_1.isShown()
-                ? View.GONE
-                : View.VISIBLE); break;*/
+
 
 }
     }
