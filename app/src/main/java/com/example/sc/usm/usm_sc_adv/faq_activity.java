@@ -41,10 +41,10 @@ public class faq_activity extends AppCompatActivity {
         que_8 = (TextView) findViewById(R.id.que_8_content);
 // hide until its title is clicked
         que_8.setVisibility(View.GONE);
-        que_9 = (TextView) findViewById(R.id.que_8_content);
+        que_9 = (TextView) findViewById(R.id.que_9_content);
 // hide until its title is clicked
         que_9.setVisibility(View.GONE);
-        que_10 = (TextView) findViewById(R.id.que_8_content);
+        que_10 = (TextView) findViewById(R.id.que_10_content);
 // hide until its title is clicked
         que_10.setVisibility(View.GONE);
 
